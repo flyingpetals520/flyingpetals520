@@ -18,12 +18,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=flyingpetals520&color=ff6b6b&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/flyingpetals520?color=ff6b6b&style=flat-square" alt="Followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/flyingpetals520?color=ff6b6b&style=flat-square" alt="Stars" />
-
 <!-- 方案 A：右上角飘猫 -->
 <img align="right" width="130" src="https://cdn.jsdelivr.net/gh/flyingpetals520/whiskershelf@main/static/cat_src_2.png" alt="🐈 伸懒腰的黑猫" />
 
