@@ -1,7 +1,7 @@
 <div align="center">
 
 # 飞花千城 ✿ flyingpetals520
-*THU PhD · Attention 炼丹师 ⚡ · 折腾 Vibe coding工具链*
+* Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链*
 <a href="https://github.com/flyingpetals520">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=FF6B6B&center=true&vCenter=true&width=820&lines=Hi%20%F0%9F%91%8B%20I%20am%20flyingpetals520%3BEnthusiastic%20in%20Frontier%20AI%3Bvibe-coding%20%26%26%20LLM%20agent%3B%E9%9A%8F%E6%89%8B%E6%90%93%E8%BD%BB%E9%87%8F%E5%8C%96%E5%B0%8F%E5%B7%A5%E5%85%B7%20%E8%87%B4%E5%8A%9B%20agent%20%E8%9E%8D%E5%85%A5%E7%94%9F%E6%B4%BB" alt="Typing SVG" />
 </a>
@@ -21,7 +21,6 @@
 
 <br/>
 
-<!-- 方案 A：右上角飘猫 -->
 <img align="right" width="130" src="https://cdn.jsdelivr.net/gh/flyingpetals520/whiskershelf@main/static/cat_src_2.png" alt="🐈 伸懒腰的黑猫" />
 
 </div>
@@ -30,8 +29,8 @@
 
 ## 🐾 About Me
 
-> THU PhD 在读，主攻 AI/ML 行业交叉方向，不是 CS 科班，比较菜。<br>
-> 日常：广读 AI 领域论文、随便搓搓本地小工具、致力于把 agent 嵌进日常研究流程、喜欢哈基米。
+> THU PhD 在读，主攻 AI/ML 行业交叉方向，不是 CS 科班，菜菜求带。<br>
+> 日常：广读 AI 领域论文、随便搓搓小工具、致力于把 agent 嵌进日常研究流程、喜欢哈基米。
 
 **最近在想的事：**
 
@@ -43,7 +42,7 @@
 
 ## 🛠️ 正在搓的轮子
 
-由于本人平时主要以 academic research 为主，精力有限，所以项目可能简陋些，有需求就 vibe 下热热身搓一个自己用，不过还是希望帮到大家，也在不断查找不足和迭代！不是单品玩家，是希望构建**一整套本地 AI reserach 工具链**——围绕"读论文 → 标注 → 引用 → idea火花碰撞 → 复现 →高质量产出"的完整研究循环（类似的框架众多，我只是做个辅助，或抛砖引玉）：
+由于本人平时主要以组里 academic research 为主，精力有限，所以项目可能简陋些，有需求就 vibe 下热热身搓一个自己用，不过还是希望帮到大家，也在不断查找不足和迭代！不是单品玩家，是希望构建**一整套本地 AI reserach 工具链**——围绕"读论文 → 标注 → 引用 → idea火花碰撞 → 复现 →高质量产出"的完整研究循环（类似的框架众多，我只是做个辅助，或抛砖引玉）：
 
 <table>
 <tr>
