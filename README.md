@@ -51,11 +51,11 @@
 
 ### 🐾 [WhiskerShelf](https://github.com/flyingpetals520/whiskershelf) ⭐
 
-**A cozy local AI paper library — with a cat on the shelf.**
+**A cozy local LLM-powered paper library — with a cat on the shelf.**
 
 - 💡 **Idea Spark** —— 选 2-4 篇论文，AI brainstorm 碰撞出可执行的研究方向
-- 🚀 **Claude Code 集成** —— 一键导出 brief 项目直接当 CC 任务
-- 🧠 **5 个 自己搓的 Skills** —— 让 CC 真正成为研究伙伴 （可以搭配其他更成熟的 skills 食用）
+- 🚀 **Claude Code 集成** —— 一键导出 brief 项目直接当下游 CC 任务
+- 🧠 **5 个自己搓的 Skills** —— 让 CC 真正成为研究伙伴 （可以搭配其他更成熟的 skills 食用）
 - 🐈 小黑随机出现趴在"最近阅读"上
 - 🔌 零三方依赖（Python stdlib + Vanilla JS）
 
@@ -64,11 +64,11 @@
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ [MLLM 智能图像标注](https://github.com/flyingpetals520/Intelligent-image-annotation-web-tool-based-on-multimodal-LLM)
+### 🖼️ [MLLM 智能图像标注工具](https://github.com/flyingpetals520/Intelligent-image-annotation-web-tool-based-on-multimodal-LLM)
 
 **Local multimodal LLM annotation for image dataset.**
 
-- 🎨 文生图数据集 + 姿态识别 + 二次元数据合成
+- 🎨 文生图数据集 + 姿态识别 + 数据合成
 - 🔌 三种模式：**本地 VLM** / **远程 API** / **人工校正**
 - 🧠 支持 Qwen3.5 (4B/27B/35B) 等本地部署 VLM
 - 🎯 vibe-coded with **GLM-5.1 agent**
@@ -90,7 +90,7 @@
 - 🪶 单文件 GUI，PyInstaller 一键打包 exe
 - 🎓 "Be flash and beautiful, not bloated and paid"
 
-`Python 3.9+` · `pybtex` · 单文件
+`Python` · `pybtex` · 单文件
 
 </td>
 <td width="50%" valign="top">
