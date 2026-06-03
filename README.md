@@ -3,6 +3,8 @@
 # 飞花 ✿ flyingpetals520
 *THU PhD · Attention 炼丹师 ⚡ · 折腾 Vibe coding工具链*
 
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
