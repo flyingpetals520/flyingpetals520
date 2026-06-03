@@ -180,6 +180,4 @@
 
 **made with 🐾 and 🧠 by [flyingpetals520](https://github.com/flyingpetals520)**
 
-<sub>📌 顶图那只猫的灵感来自 `cat_src_2.png`（伸懒腰，最有性格）</sub>
-
 </div>
