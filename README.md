@@ -4,22 +4,28 @@
 
 *THU PhD · Attention 炼丹师 ⚡ · 折腾 Vibe coding工具链*
 
-<a href="https://github.com/flyingpetals520">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=FF6B6B&center=true&vCenter=true&width=820&lines=Hi%20%F0%9F%91%8B%20I%20am%20flyingpetals520%3BEnthusiastic%20in%20Frontier%20AI%3Bvibe-coding%20%26%26%20LLM%20agent%3B%E9%9A%8F%E6%89%8B%E6%90%93%E8%BD%BB%E9%87%8F%E5%8C%96%E5%B0%8F%E5%B7%A5%E5%85%B7%20%E8%87%B4%E5%8A%9B%20agent%20%E8%9E%8D%E5%85%A5%E7%94%9F%E6%B4%BB" alt="Typing SVG" />
-</a>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black" alt="Transformers" />
+<img src="https://img.shields.io/badge/FLA-000000?style=for-the-badge" alt="FLA (Fused Linear Attention)" />
+
+</div>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=flyingpetals520&color=ff6b6b&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/flyingpetals520?color=ff6b6b&style=flat-square" alt="Followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/flyingpetals520?color=ff6b6b&style=flat-square" alt="Stars" />
 
 <!-- 方案 A：右上角飘猫 -->
 <img align="right" width="130" src="https://cdn.jsdelivr.net/gh/flyingpetals520/whiskershelf@main/static/cat_src_2.png" alt="🐈 伸懒腰的黑猫" />
 
 </div>
+
+<!-- 顶部波浪已删 -->
+
+---
 
 ## 🐾 About Me
 
@@ -105,20 +111,6 @@
 
 ---
 
-## 🎯 WhiskerShelf 的 5 个 Skills（让 CC 真正当研究伙伴）
-
-> "让 CC 知道下一步 research 怎么办"
-
-| Skill | 干啥 | 何时用 |
-|---|---|---|
-| 🐾 `whiskershelf-brief` | 加载并解读 Idea Spark brief | 自动加载，CC 启动时 |
-| 🔍 `whiskershelf-search` | 查**本地**库 | "找一下我那篇 X 论文" |
-| 🌐 `whiskershelf-web-search` | 查**全网**（arxiv / Semantic Scholar） | "最近有什么 X 的工作？" |
-| 🏷️ `whiskershelf-tag` | 标签管理（用户确认门控） | 完成一个方向后整理 |
-| 🤖 `whiskershelf-subagents` | 派 subagent 并行深挖 | "给我一个完整的研究计划" |
-
----
-
 ## 🐈 此刻的桌面
 
 ```text
@@ -148,14 +140,13 @@
 
 ## 📊 GitHub 数据流
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=flyingpetals520&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=flyingpetals520&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingpetals520&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<table align="center">
+<tr>
+  <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=flyingpetals520&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /></td>
+  <td><img height="180em" src="https://streak-stats.demolab.com?user=flyingpetals520&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+  <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingpetals520&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+</tr>
+</table>
 
 ---
 
@@ -184,6 +175,10 @@
 - 🐙 **GitHub Issues** —— [WhiskerShelf/issues](https://github.com/flyingpetals520/whiskershelf/issues) 是最快的入口
 - 🐦 **X (Twitter)** —— [@flyingpetal472](https://x.com/flyingpetal472)
 - 💬 **QQ** —— 1665395842
+
+---
+
+<!-- 底部波浪已删 -->
 
 <div align="center">
 
