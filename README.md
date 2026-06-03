@@ -6,7 +6,6 @@
 </div>
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -23,8 +22,6 @@
 <img align="right" width="130" src="https://cdn.jsdelivr.net/gh/flyingpetals520/whiskershelf@main/static/cat_src_2.png" alt="🐈 伸懒腰的黑猫" />
 
 </div>
-
-<!-- 顶部波浪已删 -->
 
 ---
 
