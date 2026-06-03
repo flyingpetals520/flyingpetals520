@@ -165,13 +165,7 @@
 
 <div align="center">
 
-<br>
-
-<p align="center">
   ·  🐾  ·  🌿  ·  🐾  ·  🍵  ·  🐾  ·  🌸  ·  🐾  ·
-</p>
-
-<br>
 
 </div>
 
