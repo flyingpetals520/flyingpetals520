@@ -165,7 +165,7 @@
 
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjI4IiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48ZGVmcz48cGF0dGVybiBpZD0icCIgd2lkdGg9IjI4MCIgaGVpZ2h0PSIyOCIgcGF0dGVyblVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHRleHQgeD0iMCIgeT0iMjIiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSBFbW9qaSxBcHBsZSBDb2xvciBFbW9qaSxOb3RvIENvbG9yIEVtb2ppLHNhbnMtc2VyaWYiPvCfjr4gwrcg8J+MlCDCtxwg8J+OviDCtxwg8J+NryDCtxwg8J+OviDCtxwg8J+MiCDCtxwg8J+OviDCoTwvdGV4dD48L3BhdHRlcm4+PC9kZWZzPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjI4IiBmaWxsPSJ1cmwoI3ApIi8+PC9zdmc+" width="100%" alt="divider">
+·  🐾  ·  🌿  ·  🐾  ·  🍵  ·  🐾  ·  🌸  ·  🐾  ·
 
 </div>
 
