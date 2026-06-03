@@ -34,7 +34,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 **最近在想的事：**
 
-- 🧠 **大语言模型前沿** —— Linear Attention、Sparse Attention、SSM、Agentic reasoning、Alignment...
+- 🧠 **AI LLM Frontier** —— Linear Attention、Sparse Attention、SSM、Agentic reasoning、Alignment...
 - 🤖 **Agent for Autoresearch** —— 让 Claude Code 真正参与读论文 → 想法碰撞 → 实验 → 高质量产出的闭环（成熟框架太多了，还在 explore）
 - 🐈 **共情设计** —— 好看好用温馨的 GUI 界面，严肃工具也可以有温度
 
