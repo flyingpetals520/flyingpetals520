@@ -1,26 +1,20 @@
-<!-- ============= HOW TO USE =============
-1. 在 GitHub 上创建名为 `flyingpetals520/flyingpetals520` 的仓库（与用户名同名，必须 Public）
-2. 初始化时**不要**勾选 "Add a README"
-3. 克隆：
-   git clone https://github.com/flyingpetals520/flyingpetals520.git
-4. 把下面整块保存为 `README.md`，提交推送：
-   cd flyingpetals520
-   cp <本文件> README.md
-   git add README.md
-   git commit -m "feat: initial profile README"
-   git push
-5. 打开 https://github.com/flyingpetals520 就能看到
-============================================= -->
-
 <div align="center">
 
 # 飞花 ✿ flyingpetals520
 
 *THU PhD · Attention 炼丹师 ⚡ · 折腾 Vibe coding工具链*
 
-<a href="https://github.com/flyingpetals520">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=FF6B6B&center=true&vCenter=true&width=820&lines=Hi%20%F0%9F%91%8B%20I%20am%20flyingpetals520%3BEnthusiastic%20in%20Frontier%20AI%3Bvibe-coding%20%26%26%20LLM%20agent%3B%E9%9A%8F%E6%89%8B%E6%90%93%E8%BD%BB%E9%87%8F%E5%8C%96%E5%B0%8F%E5%B7%A5%E5%85%B7%20%E8%87%B4%E5%8A%9B%20agent%20%E8%9E%8D%E5%85%A5%E7%94%9F%E6%B4%BB" alt="Typing SVG" />
-</a>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black" alt="Transformers" />
+<img src="https://img.shields.io/badge/FLA-000000?style=for-the-badge" alt="FLA (Fused Linear Attention)" />
+
+</div>
 
 <br/>
 
@@ -49,20 +43,6 @@
 - 🧠 **大语言模型前沿** —— Linear Attention、Sparse Attention、SSM、Agentic reasoning、Alignment...
 - 🤖 **Agent for Autoresearch** —— 让 Claude Code 真正参与读论文 → 想法碰撞 → 实验 → 高质量产出的闭环（成熟框架太多了，还在 explore）
 - 🐈 **共情设计** —— 好看温馨的 GUI 界面，严肃工具也可以有温度
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black" alt="Transformers" />
-<img src="https://img.shields.io/badge/FLA-000000?style=for-the-badge" alt="FLA (Fused Linear Attention)" />
-
-</div>
 
 ---
 
@@ -187,8 +167,6 @@
 🧬  Bio-inspired  SNN · Spiking Attention · Predictive Coding · HTM
 🌍  World Model  JEPA · Sora · Genesis · Video Prediction
 ```
-
----
 
 <!-- 方案 C：猫爪 emoji 分隔线 -->
 
