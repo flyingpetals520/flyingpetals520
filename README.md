@@ -185,8 +185,6 @@
 🌍  World Model  JEPA · Sora · Genesis · Video Prediction
 ```
 
----
-
 <!-- 方案 C：猫爪 emoji 分隔线 -->
 
 <div align="center">
