@@ -42,7 +42,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 ## 🛠️ 正在搓的轮子
 
-由于本人平时主要以组里 academic research 为主，精力有限，所以项目可能简陋些，有需求就 vibe 下热热身搓一个自己用，不过还是希望帮到大家，也在不断查找不足和迭代！不是单品玩家，是希望构建**一整套本地 AI reserach 工具链**——围绕"读论文 → 标注 → 引用 → idea火花碰撞 → 复现 →高质量产出"的完整研究循环（类似的框架众多，我只是做个辅助，或抛砖引玉）：
+由于本人平时主要以组里 academic research 为主，精力有限，所以项目可能简陋些，有需求就 vibe 下热热身搓一个自己用，不过还是希望帮到大家，也在不断查找不足和迭代！（还有好多零散的 vibe coding 东西没整理出来，后面再看）不是单品玩家，是希望构建**一整套本地 AI reserach 工具链**——围绕"读论文 → 标注 → 引用 → idea火花碰撞 → 复现 →高质量产出"的完整研究循环（类似的框架众多，我只是做个辅助，或抛砖引玉）：
 
 <table>
 <tr>
@@ -56,7 +56,6 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 - 🚀 **Claude Code 集成** —— 一键导出 brief 项目直接当下游 CC 任务
 - 🧠 **5 个自己搓的 Skills** —— 让 CC 真正成为研究伙伴 （可以搭配其他更成熟的 skills 食用）
 - 🐈 小黑随机出现趴在"最近阅读"上
-- 🔌 零三方依赖（Python stdlib + Vanilla JS）
 
 `MIT` · `Python 3.8+` · `176+ PDFs`
 
@@ -67,10 +66,9 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 **Local multimodal LLM annotation for image dataset.**
 
-- 🎨 文生图数据集 + 姿态识别 + 数据合成
+- 🎨 文生图数据集 + DWpose 姿态识别 + 数据合成
 - 🔌 三种模式：**本地 VLM** / **远程 API** / **人工校正**
 - 🧠 支持 Qwen3.5 (4B/27B/35B) 等本地部署 VLM
-- 🎯 vibe-coded with **GLM-5.1 agent**
 - 📦 自建 10w+ 张高质量二次元图片数据集
 
 `Apache 2.0` · `PyTorch` · `Flask`
