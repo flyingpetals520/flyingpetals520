@@ -35,11 +35,6 @@
 
 </div>
 
-<!-- 方案 A：粉橙渐变波浪分隔线 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffe4ec,50:ffb6c1,100:ff6b6b&height=70&section=header" width="100%" />
-
----
-
 ## 🐾 About Me
 
 > THU PhD 在读，主攻 AI/ML 领域交叉方向，不是CS科班，比较菜。
@@ -205,11 +200,6 @@
 - 🐙 **GitHub Issues** —— [WhiskerShelf/issues](https://github.com/flyingpetals520/whiskershelf/issues) 是最快的入口
 - 🐦 **X (Twitter)** —— [@flyingpetal472](https://x.com/flyingpetal472)
 - 💬 **QQ** —— 1665395842
-
----
-
-<!-- 方案 A：粉橙渐变波浪收尾 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffe4ec,50:ffb6c1,100:ff6b6b&height=70&section=footer" width="100%" />
 
 <div align="center">
 
