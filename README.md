@@ -1,17 +1,3 @@
-<!-- ============= HOW TO USE =============
-1. 在 GitHub 上创建名为 `flyingpetals520/flyingpetals520` 的仓库（与用户名同名，必须 Public）
-2. 初始化时**不要**勾选 "Add a README"
-3. 克隆：
-   git clone https://github.com/flyingpetals520/flyingpetals520.git
-4. 把下面整块保存为 `README.md`，提交推送：
-   cd flyingpetals520
-   cp <本文件> README.md
-   git add README.md
-   git commit -m "feat: initial profile README"
-   git push
-5. 打开 https://github.com/flyingpetals520 就能看到
-============================================= -->
-
 <div align="center">
 
 # 飞花 ✿ flyingpetals520
