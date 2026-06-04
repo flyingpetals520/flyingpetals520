@@ -35,7 +35,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 **最近在想的事：**
 
 - 🧠 **AI LLM Frontier** —— Scaling、Linear Attention、Sparse Attention、SSM、Agentic reasoning、Alignment...
-- 🤖 **Agent for Autoresearch** —— 让 LLM Agent 真正参与读论文 → 想法碰撞 → 实验 → 高质量产出的闭环（成熟框架太多了，explore ING）
+- 🤖 **Agent for Autoresearch** —— 让 LLM Agent 真正参与搜集阅读论文 → 想法碰撞 → 实验开展 → 高质量产出的闭环（成熟框架太多了，explore ING）
 - 🐈 **共情设计** —— 好看好用又温馨的 GUI 界面，严肃工具也可以有温度
 
 ---
@@ -57,7 +57,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 - 🧠 **5 个自己搓的 Skills** —— 让 CC 真正成为研究伙伴 （可以搭配其他更成熟的 skills 食用）
 - 🐈 小黑随机出现趴在"最近阅读"上
 
-`MIT` · `Python 3.8+` · `176+ PDFs`
+`MIT` · `Python` · `PDFs`
 
 </td>
 <td width="50%" valign="top">
@@ -71,7 +71,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 - 🧠 支持 Qwen3.5 (4B/27B/35B) 等本地部署 VLM
 - 📦 自建 10w+ 张高质量二次元图片数据集
 
-`Apache 2.0` · `PyTorch` · `Flask`
+`Apache 2.0` · `PyTorch` · `Autonomous`
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 ## 🐈 此刻的桌面
 
 ```text
-📖  WhiskerShelf 开着，左边栏 Idea Spark 在等一个新Idea 冒出来
+📖  WhiskerShelf 开着，左边栏 Idea Spark 在等一个新 Idea 冒出来
 🔧  刷着 X，导致 Skills 又下了几个黑科技
 🖼️  MLLM 标注工具在跑 Qwen3.5-27B，标注 10w+ 图
 🤖  Claude Code 正在 vibe-coding，写不动了就调动 superpowers 老祖让它接着写
@@ -150,7 +150,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 ```text
 🧠  LLM 架构    Mamba · RWKV · DeltaNet · Linear Attn · MoE · Diffusion LM 
 🎨  多模态     VLM · Diffusion · Pose Estimation · 3D Generation
-🤖  Agent       Claude Code · Tool Use · ReAct · Planning · Multi-Agent
+🤖  Agent       Claude Code · Codex · ReAct · Planning · Multi-Agent
 🔧  Infra       vLLM · SGLang · KV Cache · Quantization · Speculative Decoding
 🧬  Bio-inspired  SNN · Spiking Attention · Predictive Coding · HTM
 🌍  World Model  JEPA · Sora · Genesis · Video Prediction
