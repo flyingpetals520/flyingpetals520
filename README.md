@@ -34,15 +34,15 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 **最近在想的事：**
 
-- 🧠 **AI LLM Frontier** —— Linear Attention、Sparse Attention、SSM、Agentic reasoning、Alignment...
-- 🤖 **Agent for Autoresearch** —— 让 Claude Code 真正参与读论文 → 想法碰撞 → 实验 → 高质量产出的闭环（成熟框架太多了，还在 explore）
-- 🐈 **共情设计** —— 好看好用温馨的 GUI 界面，严肃工具也可以有温度
+- 🧠 **AI LLM Frontier** —— Scaling、Linear Attention、Sparse Attention、SSM、Agentic reasoning、Alignment...
+- 🤖 **Agent for Autoresearch** —— 让 LLM Agent 真正参与读论文 → 想法碰撞 → 实验 → 高质量产出的闭环（成熟框架太多了，explore ING）
+- 🐈 **共情设计** —— 好看好用又温馨的 GUI 界面，严肃工具也可以有温度
 
 ---
 
 ## 🛠️ 正在搓的轮子
 
-由于本人平时主要以组里 academic research 为主，精力有限，所以项目可能简陋些，有需求就 vibe 下热热身搓一个自己用，不过还是希望帮到大家，也在不断查找不足和迭代！（后面 paper 发出来了也会开源 research 的代码 soon！还有好多零散的 vibe coding 东西没整理出来，后面再看）不是单品玩家，是希望构建**一整套本地 AI reserach 工具链**——围绕"读论文 → 标注 → 引用 → idea火花碰撞 → 复现 →高质量产出"的完整研究循环（类似的框架众多，我只是做个辅助，或抛砖引玉）：
+由于本人平时主要以 academic research 为主，精力有限，所以项目可能简陋些，有需求就 vibe 下热热身搓一个自己用，不过还是希望帮到大家，也在不断查找不足和迭代！（后面 paper 发出来了也会开源 research 的代码 soon！还有好多零散的 vibe coding 东西没整理出来，后面再计划）不是单品玩家，是希望构建**一整套本地 AI reserach 工具链**——围绕"读论文 → 标注 → 引用 → idea火花碰撞 → 复现 →高质量产出"的完整研究循环（类似的框架众多，我只是做个辅助，或抛砖引玉）：
 
 <table>
 <tr>
