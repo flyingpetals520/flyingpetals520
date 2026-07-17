@@ -66,7 +66,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 **Local multimodal LLM annotation for image dataset.**
 
-- 🎨 文生图数据集 + DWpose 姿态识别 + 数据标注合成
+- 🎨 文生图数据集构建 + DWpose 姿态识别 + 数据批量自动标注合成
 - 🔌 三种模式：**本地 VLM** / **远程 API** / **人工校正**
 - 🧠 支持 Qwen3.5 (4B/27B/35B) 等本地部署 VLM 和云端模型 API 灵活组合
 - 📦 自建 10w+ 张高质量二次元图片数据集
