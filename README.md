@@ -66,9 +66,9 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 **Local multimodal LLM annotation for image dataset.**
 
-- 🎨 文生图数据集 + DWpose 姿态识别 + 数据合成
+- 🎨 文生图数据集 + DWpose 姿态识别 + 数据标注合成
 - 🔌 三种模式：**本地 VLM** / **远程 API** / **人工校正**
-- 🧠 支持 Qwen3.5 (4B/27B/35B) 等本地部署 VLM
+- 🧠 支持 Qwen3.5 (4B/27B/35B) 等本地部署 VLM 和云端模型 API 灵活组合
 - 📦 自建 10w+ 张高质量二次元图片数据集
 
 `Apache 2.0` · `PyTorch` · `Autonomous`
@@ -82,7 +82,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 **Effective and light-flash assistant for checking references.**
 
-- 📚 上传 `.bib` + `.tex`，自动找引用错误
+- 📚 上传 paper `.bib` + `.tex`，自动找引用错误
 - ⚡ 写论文 / 改 literature review 时救命
 - 🪶 单文件 GUI，PyInstaller 一键打包 exe
 - 🎓 "Be flash and beautiful, not bloated and paid"
@@ -97,7 +97,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 **An interactive AI evolution timeline.**
 
 - 📅 主流模型发布、巨头突破、研究里程碑的可视化时间线且可编辑更新
-- 🧭 精选 AI 评测平台 & 新闻源导航
+- 🧭 精选资源 AI 评测平台 & 新闻源导航
 - 💾 离线持久化（localStorage + JSON 导入/导出）
 - 🎨 静态站点，无后端依赖
 
