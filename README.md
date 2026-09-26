@@ -64,7 +64,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 ### 🖼️ [MLLM 智能图像标注工具](https://github.com/flyingpetals520/Intelligent-image-annotation-web-tool-based-on-multimodal-LLM)
 
-**Local multimodal LLM annotation for image dataset.**
+**Multimodal LLM annotation for image dataset.**
 
 - 🎨 文生图数据集构建 + DWpose 姿态识别 + 数据批量自动标注合成
 - 🔌 三种模式：**本地 VLM** / **远程 API** / **人工校正**
