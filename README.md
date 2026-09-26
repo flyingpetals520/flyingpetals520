@@ -54,7 +54,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 - 💡 **Idea Spark** —— 选 2-4 篇论文，AI brainstorm 碰撞出可执行的研究方向
 - 🚀 **Claude Code 集成** —— 一键导出 brief 项目直接当下游 CC 任务
-- 🧠 **5 个自己搓的 Skills** —— 让 CC 真正成为研究伙伴 （可以搭配其他更成熟的 skills 食用）
+- 🧠 **5 个自搓的 Skills** —— 让 CC 真正成为研究伙伴 （可以搭配其他更成熟的 skills 食用）
 - 🐈 小黑随机出现趴在"最近阅读"上
 
 `MIT` · `Python` · `PDFs`
@@ -68,7 +68,7 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 
 - 🎨 文生图数据集构建 + DWpose 姿态识别 + 数据批量自动标注合成
 - 🔌 三种模式：**本地 VLM** / **远程 API** / **人工校正**
-- 🧠 支持 Qwen3.5 (4B/27B/35B) 等本地部署 VLM 和云端模型 API 灵活组合
+- 🧠 支持 Qwen3.x (4B/27B/35B等) 等本地部署 VLM 和云端模型 API 灵活组合
 - 📦 自建 10w+ 张高质量二次元图片数据集
 
 `Apache 2.0` · `PyTorch` · `Autonomous`
@@ -114,9 +114,9 @@ _Attention 时代炼丹师 ⚡ · 折腾 Vibe coding 工具链_
 ```text
 📖  WhiskerShelf 开着，左边栏 Idea Spark 在等一个新 Idea 冒出来
 🔧  刷着 X，导致 Skills 又下了几个黑科技
-🖼️  MLLM 标注工具在跑 Qwen3.5-27B，标注 10w+ 图
-🤖  Claude Code 正在 vibe-coding，写不动了就调动 superpowers 老祖让它接着写
-📚  Mamba-3 / Gated DeltaNet-2 / Kimi Linear 一大堆在论文队列里等着读
+🖼️  MLLM 标注工具在跑 Qwen3.x-27B，标注 10w+ 图
+🤖  Claude Code 正在 vibe coding，写不动了就调动 superpowers 老祖让它接着写（update：现在不需要了）
+📚  Mamba-3 / Gated DeltaNet-2 / Kimi Linear 一大堆在论文 list 里等着读
 ```
 
 ---
